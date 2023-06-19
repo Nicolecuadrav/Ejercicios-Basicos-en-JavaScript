@@ -10,5 +10,5 @@ var producto1 = {
 var descuentoAplicable= (producto1.precio) * 0.3;
 var precioConDescuento = (producto1.precio - descuentoAplicable);
 
-  console.log("Precio con descuento: " + precioConDescuento);
+console.log("Precio con descuento: " + precioConDescuento);  
   
